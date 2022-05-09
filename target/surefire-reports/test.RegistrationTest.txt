@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: test.RegistrationTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 4.413 s <<< FAILURE! - in test.RegistrationTest
+positiveRegistrationTest(test.RegistrationTest)  Time elapsed: 2.286 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "String.substring(int)" because "accessToken" is null
+	at test.RegistrationTest.tearDown(RegistrationTest.java:39)
+
+checkErrorFieldPasswordTest(test.RegistrationTest)  Time elapsed: 2.093 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "String.substring(int)" because "accessToken" is null
+	at test.RegistrationTest.tearDown(RegistrationTest.java:39)
+
