@@ -1,0 +1,13 @@
+clients\User$UserBuilder.class
+clients\UserClient.class
+pages\ResetPasswordPage.class
+pages\LoginPage.class
+clients\UserCredentials.class
+pages\OrderHistoryPage.class
+clients\User.class
+pages\ProfilePage.class
+pages\MainPage.class
+pages\RegistrationPage.class
+clients\UserCredentials$UserCredentialsBuilder.class
+pages\RecoverPage.class
+clients\BurgerRestClient.class
